@@ -35,6 +35,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lisa/proprietary/system_ext/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libimsmedia_jni.so \
     vendor/xiaomi/lisa/proprietary/system_ext/lib64/vendor.qti.diaghal@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.diaghal@1.0.so \
     vendor/xiaomi/lisa/proprietary/system_ext/lib64/vendor.qti.imsrtpservice@3.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.imsrtpservice@3.0.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib64/libldacBT_abr.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libldacBT_abr.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib64/libldacBT_enc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libldacBT_enc.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib64/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/liblhdc.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib64/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/liblhdcBT_enc.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib/libldacBT_abr.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libldacBT_abr.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib/libldacBT_enc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libldacBT_enc.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib/liblhdc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/liblhdc.so \
+    vendor/xiaomi/lisa/proprietary/system_ext/lib/liblhdcBT_enc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/liblhdcBT_enc.so \
     vendor/xiaomi/lisa/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/xiaomi/lisa/proprietary/vendor/bin/adpl:$(TARGET_COPY_OUT_VENDOR)/bin/adpl \
     vendor/xiaomi/lisa/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
